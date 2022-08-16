@@ -31,10 +31,10 @@ pre {
   border-bottom: 1px solid;
 }
 aside {
-    padding-left: 1rem;
-    margin-left: .5rem;
     width: 60%;
     border-left: 1px solid;
     float: right;
     font-style: Georgia, serif;
+    padding-left: 1rem;
+    margin-left: .5rem;
 }
