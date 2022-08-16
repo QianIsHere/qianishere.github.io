@@ -1,0 +1,40 @@
+body {
+  background-color: #90F9E0;
+  font-family: Georgia, serif;
+  margin: 10% 10%;
+}
+
+pre {
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+.name {
+  text-align: center;
+  background-color: #CCFEF3;
+}
+
+.header {
+  border-top: 1px solid;
+  border-bottom: 1px solid
+}
+
+.professional_experience {
+  border-bottom: 1px solid;
+}
+
+.education {
+  border-bottom: 1px solid;
+}
+
+.skills {
+  border-bottom: 1px solid;
+}
+aside {
+    padding-left: 1rem;
+    margin-left: .5rem;
+    width: 60%;
+    border-left: 1px solid;
+    float: right;
+    font-style: Georgia, serif;
+}
